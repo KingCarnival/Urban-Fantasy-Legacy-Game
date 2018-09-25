@@ -1,6 +1,6 @@
 # Family Name
 
-Description
+The Earth is screaming, and we are here to sooth it. Be it through force or patience we will change minds.
 
 ## Stats
 
@@ -21,3 +21,5 @@ A stat line should equal out to 1 across the 4 stats: Reach, Grasp, Sleight and 
 ## Alliance Move
 
 ## Moves
+
+### We Are The World
