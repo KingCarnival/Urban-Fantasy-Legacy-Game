@@ -21,3 +21,7 @@ A stat line should equal out to 1 across the 4 stats: Reach, Grasp, Sleight and 
 ## Alliance Move
 
 ## Moves
+
+Take The Horde and one other:
+
+### The Horde
