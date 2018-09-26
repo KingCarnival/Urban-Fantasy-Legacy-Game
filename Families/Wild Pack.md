@@ -1,6 +1,6 @@
 # The Wild Pack
 
-Description
+We are the beasts that stopped pretending.
 
 ## Stats
 

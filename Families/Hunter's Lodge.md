@@ -1,6 +1,6 @@
 # Family Name
 
-Description
+Hunter's must hunt, but we decide who gets hunted.  Monsters luke in all places chasing the obvious ones just make you look like a fool.
 
 ## Stats
 
