@@ -18,6 +18,8 @@ A stat line should equal out to 1 across the 4 stats: Reach, Grasp, Sleight and 
 
 **Secret**
 
+**Cloistered**
+
 **Public**
 
 ## Resources
