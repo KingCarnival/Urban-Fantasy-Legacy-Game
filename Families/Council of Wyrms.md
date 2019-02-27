@@ -1,6 +1,6 @@
 # Family Name
 
-Dragons have always been present in our world. Sometimes we just like to stay quiet with our hordes. Staying quiet isn't a lincese to invade, however
+Dragons have always been present in our world. Sometimes we just like to stay quiet with our hordes. Staying quiet isn't a license to invade, however
 
 ## Stats
 

@@ -4,7 +4,7 @@ Description
 
 ## Stats
 
-A stat line should equal out to 1 accross the 4 stats: Reach, Grasp, Sleight and Mood.
+A stat line should equal out to 1 across the 4 stats: Reach, Grasp, Sleight and Mood.
 
 ## Traditions
 
