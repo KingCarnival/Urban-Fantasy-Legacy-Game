@@ -2,6 +2,6 @@
 
 ## Basic Moves
 
-## Periheral Moves
+## Peripheral Moves
 
 ## Relationship Moves
