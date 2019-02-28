@@ -20,7 +20,7 @@ A stat line should equal out to 1 across the 4 stats: Reach, Grasp, Sleight and 
 
 **Cloistered**
 
-**Public**
+**Public**: The family is a known entity, either as a government or business and as such normally gets a first call to supernatural crimes or events before local authorities.  
 
 ## Resources
 
