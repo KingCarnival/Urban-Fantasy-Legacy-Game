@@ -17,11 +17,11 @@ A stat line should equal out to 1 across the 4 stats: Reach, Grasp, Sleight and 
 ## Lifestyle
 This is a move that represents how well known a family is to the general public of the world
 
-**Secret**
+**Secret**:
 
-**Cloistered**
+**Cloistered**:
 
-**Public**
+**Public**:
 
 ## Resources
 
