@@ -5,3 +5,7 @@
 ## Peripheral Moves
 
 ## Relationship Moves
+
+### Forge a Pact
+
+### Risk Pact
